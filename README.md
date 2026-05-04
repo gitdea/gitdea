@@ -4,13 +4,14 @@
 
 Olá! Sou desenvolvedora Back-End focada em Python e apaixonada por construir soluções que resolvem problemas reais.
 
-Atuo no desenvolvimento de APIs e sistemas escaláveis utilizando **Django e FastAPI**, além de criar automações inteligentes com **n8n** e integrar **Inteligência Artificial** aos fluxos de trabalho.
+Atuo no desenvolvimento de APIs e sistemas escaláveis utilizando **Django e FastAPI**, além de criar automações com **n8n** e desenvolver **agentes de IA** integrados a fluxos de trabalho.
 
-Desenvolvo agentes de IA utilizando modelos como **GPT e Llama** para análise de dados, geração de relatórios e automação de tarefas.
+Utilizo modelos como **GPT e Llama** para análise de dados, geração de relatórios e automação de tarefas.
 
 Tenho experiência prática com projetos reais, incluindo aplicações SaaS multitenant, APIs REST e soluções que reduzem processos manuais e aumentam a eficiência operacional.
 
 ---
+
 
 ## 🚀 O que trago na minha bagagem
 
