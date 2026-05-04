@@ -1,13 +1,27 @@
-# 💻 Desenvolvedora Back-End | Aberta para Estágio e Júnior
+# 💻 Desenvolvedora Back-End Python | Automação com IA | Aberta para Estágio e Júnior
 
-Olá! Sou desenvolvedora Back-End focada em Python e gosto de construir soluções que resolvam problemas reais. Recentemente, mergulhei no universo SaaS, desenvolvendo uma plataforma completa onde pude aplicar tudo o que acredito em termos de código limpo e escalabilidade.
+## 👩‍💻 Sobre mim
 
-Minha base técnica é em **FastAPI e Django**, mas minha visão vai além das linhas de código: cuido desde a modelagem do banco de dados até o deploy em nuvem.
+Olá! Sou desenvolvedora Back-End focada em Python e apaixonada por construir soluções que resolvem problemas reais.
 
-### 🚀 O que trago na minha bagagem:
-* **Desenvolvimento SaaS:** Foco em arquitetura de APIs modernas e escaláveis.
-* **Segurança e Qualidade:** Implementação de JWT para autenticação e testes unitários com Pytest.
-* **Inovação:** Integração de funcionalidades com IA Generativa e Automações.
+Atuo no desenvolvimento de APIs e sistemas escaláveis utilizando **Django e FastAPI**, além de criar automações inteligentes com **n8n** e integrar **Inteligência Artificial** aos fluxos de trabalho.
+
+Desenvolvo agentes de IA utilizando modelos como **GPT e Llama** para análise de dados, geração de relatórios e automação de tarefas.
+
+Tenho experiência prática com projetos reais, incluindo aplicações SaaS multitenant, APIs REST e soluções que reduzem processos manuais e aumentam a eficiência operacional.
+
+---
+
+## 🚀 O que trago na minha bagagem
+
+- **Desenvolvimento Back-End:** Criação de APIs REST com Django e FastAPI  
+- **Arquitetura SaaS:** Sistemas multitenant e modelagem com PostgreSQL  
+- **Automação & IA:** Workflows com n8n e desenvolvimento de agentes de IA  
+- **Integração com LLMs:** GPT e Llama para análise e geração de dados  
+- **Qualidade de Software:** Testes automatizados com Pytest e boas práticas  
+
+---
+
 
 ### 🛠️ Tecnologias e Ferramentas
 
