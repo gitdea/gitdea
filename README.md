@@ -2,24 +2,25 @@
 
 ## 👩‍💻 Sobre mim
 
-Olá! Sou desenvolvedora Back-End focada em Python e apaixonada por construir soluções que resolvem problemas reais.
+Desenvolvedora focada em sistemas Back-End e automações inteligentes com integração de IA para otimização de negócios.
 
-Atuo no desenvolvimento de APIs e sistemas escaláveis utilizando **Django e FastAPI**, além de criar automações com **n8n** e desenvolver **agentes de IA** integrados a fluxos de trabalho.
+Atuo na construção de ecossistemas escaláveis e eficientes, unindo o desenvolvimento de software tradicional às novas possibilidades da IA generativa.
 
-Utilizo modelos como **GPT e Llama** para análise de dados, geração de relatórios e automação de tarefas.
+Principais Focos de Atuação:
 
-Tenho experiência prática com projetos reais, incluindo aplicações SaaS multitenant, APIs REST e soluções que reduzem processos manuais e aumentam a eficiência operacional.
+Desenvolvimento Back-End: Criação de APIs RESTful robustas e arquiteturas multitenant utilizando Django e FastAPI, com forte foco em arquitetura limpa, segurança e modelagem de dados com PostgreSQL.
 
----
+Automação Inteligente & IA: Desenvolvimento de fluxos de trabalho automatizados no n8n e agentes de IA híbridos integrados a LLMs (GPT, Llama via APIs) para análise de dados, geração de relatórios automatizados e eliminação de tarefas manuais. 
 
+Stack Tecnológica: 
+🐍 Python
+⚡ FastAPI & Django 
+🤖 n8n & LangChain 
+ 🗄️PostgreSQL & SQLAlchemy
+🐳 Docker 
+🚀 Streamlit
 
-## 🚀 O que trago na minha bagagem
-
-- **Desenvolvimento Back-End:** Criação de APIs REST com Django e FastAPI  
-- **Arquitetura SaaS:** Sistemas multitenant e modelagem com PostgreSQL  
-- **Automação & IA:** Workflows com n8n e desenvolvimento de agentes de IA  
-- **Integração com LLMs:** GPT e Llama para análise e geração de dados  
-- **Qualidade de Software:** Testes automatizados com Pytest e boas práticas  
+🚀 Atualmente em busca de novos desafios como Desenvolvedora Júnior (Back-End / IA), com foco em colaborar com o crescimento técnico do time e na entrega de softwares confiáveis e de alta performance.
 
 ---
 
